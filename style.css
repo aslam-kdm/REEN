@@ -1,0 +1,208 @@
+a{
+    text-decoration: none !important;
+    display: inline-block !important;
+}
+.header-1-cnt{
+    display: flex;
+    justify-content: space-between;
+}
+.reen-logo{
+    padding: 10px;
+}
+.contact {
+    display: flex;
+    gap: 15px;
+    padding-left: 20px;
+}
+.global-icon {
+    display: flex;
+    gap: 5px;
+    padding-right: 20px;
+}
+.navs {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: space-between;
+}
+.search-bt {
+    display: flex;
+    justify-content: flex-end;
+}
+.header-2-cnt {
+    padding: 10px 0;
+}
+.nav {
+    gap: 15px;
+    padding: 5px;
+}
+
+
+ /* hero section */
+
+
+#banner{
+    height: 100vh;
+    width: 100%;
+    background-image: url(img/banner-reen.png);
+}
+.banner-cnt {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.banner-cnt h2{
+    padding: 10px;
+}
+.banner-cnt p{
+    padding-bottom: 30px;
+    max-width: 878px;
+}
+.banner-cnt a{
+    background-color: #0e9d66;
+    padding: 5px;
+    color: white;
+}
+
+/* feauters */
+
+.features-cnt {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: 4B5373;
+    padding: 30px;
+    align-items: center;
+}
+.features-org-cnt{
+    display: flex;
+    align-items: flex-start;
+    color: 4B5373;
+}
+
+/* our works */
+
+
+#works{
+    background-color: #f3f4f8;
+    padding: 30px;
+    color: 4B5373;
+}
+ 
+.work-text{
+    text-align: center;
+}
+.work-cnt-text{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 45px;
+    color: 4B5373;
+}
+.work-cnt-1 img{
+    width: 100%;
+}
+.work-text h2{
+    padding top: 35px;
+}
+.p-tag-only{
+    padding-bottom: 35px;
+}
+.swipe-icon{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.work-cnt-1 p{
+    color:  4B5373 ;
+}
+
+
+/* work-2 */
+
+
+.work-2-cnt{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding-top: 35px;
+}
+.work-2-cnt a{
+    background-color: #0e9d66 ;
+    margin-top: 20px;
+    color: white;
+    padding: 0px 10px;
+    margin-bottom: 35px;
+}
+.work-2-cnt p{
+    max-width: 700px;
+}
+.work-2-cnt h2{
+    color:  4B5373;
+}
+
+
+
+/* footer */
+
+
+
+#footer {
+    background-color: 2F4052;
+    padding-top: 30px;
+}
+.footers {
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+.footer-2 {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding-top: 10px;
+}
+#last-footer{
+    background-color: 293646;
+}
+.subscribe {
+    display: flex;
+    padding: 5px;
+    background: #707070;
+    border-radius: 5px;
+}
+input[type="email"] {
+    width: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: white;
+}
+input[type="email"] {
+    width: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: white;
+}
+button {
+    background: #17cc17;
+    color: white;
+    border: none;
+}
+
+
+
+
+
+
+
+
+
